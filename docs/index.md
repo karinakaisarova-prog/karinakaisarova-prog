@@ -14,3 +14,6 @@ title: Проекты — Карина Кайсарова
 | Business-Metrics-Analysis-Saransk | Дашборд и анализ бизнес-метрик по Саранску | BI / визуализация | https://github.com/karinakaisarova-prog/Business-Metrics-Analysis-Saransk |
 | TED-talks | Анализ данных по TED Talks (ANALYSIS.md) | Аналитика данных | https://github.com/karinakaisarova-prog/TED-talks |
 | eda-spb-apataments-sales | Исследовательский анализ продаж апартаментов в СПБ | Jupyter Notebook, EDA | https://github.com/karinakaisarova-prog/eda-spb-apataments-sales |
+| taxi-demand-forecasting (private) | Прогноз часового спроса на такси (RMSE 6.0) | Time Series, CatBoost, SARIMA | https://github.com/karinakaisarova-prog/taxi-demand-forecasting |
+| telecom-churn-prediction (private) | Система предиктивной аналитики для прогнозирования оттока (ROC-AUC 0.89) | CatBoost, ML Pipeline | https://github.com/karinakaisarova-prog/telecom-churn-prediction |
+| saransk-business-metrics-analysi (private) | Приватная версия бизнес-метрик Саранска | BI / internal | https://github.com/karinakaisarova-prog/saransk-business-metrics-analysi |
