@@ -25,5 +25,3 @@
 *   **Telegram:** [@KarinaKaysarova](https://t.me/KarinaKaysarova)
 *   **WhatsApp:** [+7 (927) 087-85-07](https://wa.me/79270878507)
 *   **Email:** [karina.kaisarova@gmail.com](mailto:karina.kaisarova@gmail.com)
-
-Посмотреть мои проекты (портфолио): [Projects — karinakaisarova-prog](https://karinakaisarova-prog.github.io/karinakaisarova-prog/)
