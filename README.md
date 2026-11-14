@@ -20,6 +20,19 @@
     *   **Работа с техническими данными:** Выполнила полный перерасчет кабелей и гофрированных труб на основе актуальных спецификаций.
 *   **Проектирование ETL-процессов:** Реализовала в Excel системы автоматической генерации документации (АОСР) и интеграции с отчетностью.
 
+
+### Избранные проекты
+
+* **[TED Talks Insights](https://github.com/karinakaisarova-prog/TED-talks)** — аналитический дашборд в Yandex DataLens.
+* **[HR-аналитика](https://github.com/karinakaisarova-prog/HR-analitics)** — прогноз удовлетворённости и риска увольнения сотрудников.
+* **[Оценка стоимости автомобилей](https://github.com/karinakaisarova-prog/used-car-valuation-service)** — проект прикладного машинного обучения.
+* **[Бизнес-метрики Саранска](https://github.com/karinakaisarova-prog/Business-Metrics-Analysis-Saransk)** — анализ DAU, конверсии, Retention и LTV.
+* **[Продажи апартаментов в Санкт-Петербурге](https://github.com/karinakaisarova-prog/eda-spb-apataments-sales)** — исследовательский анализ рынка недвижимости.
+* **[Google Drive File Renamer](https://github.com/karinakaisarova-prog/google-drive-file-renamer)** — автоматизация переименования файлов через Google Apps Script.
+* **[Автоматизация перечня приложений](https://github.com/karinakaisarova-prog/application-register-automation)** — инструменты Excel VBA и Word для работы с технической документацией.
+
+Полный обзор и рекомендации по развитию проектов — в [руководстве по портфолио](PORTFOLIO_GUIDE.md).
+
 ### Связаться со мной:
 
 *   **Telegram:** [@KarinaKaysarova](https://t.me/KarinaKaysarova)
